@@ -14,4 +14,4 @@ while True:
     n+=1
     if n==2:
         break
-
+print("Bye")
